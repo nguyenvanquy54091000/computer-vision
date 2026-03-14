@@ -1,0 +1,9 @@
+2026-03-12 22:38:37,540 - File: cat2.jpg | Saved As: d4764b8c-de43-4b9e-8d1f-2e8817738b60.jpg | Class: hawksbill | Confidence: 0.4446 | BBox: [32.4, 20.2, 957.5, 667.0] | Time: 0.0298s
+2026-03-12 22:42:57,821 - File: cat2.jpg | Saved As: c83d3043-7743-4b1e-9b3c-2cfc7550ad3b.jpg | Class: hawksbill | Confidence: 0.4446 | BBox: [32.4, 20.2, 957.5, 667.0] | Time: 0.0216s
+2026-03-12 22:44:25,006 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 8a006589-4d5e-490e-8272-ae07fba2e6a6.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0644s
+2026-03-12 23:55:12,994 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 6475d3df-efa2-4446-b3ce-29cbc9c71982.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0734s
+2026-03-12 23:55:13,781 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 29561b33-8842-492b-93e1-627333e0e632.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0617s
+2026-03-12 23:55:14,564 - File: Shetland.pony-05-Castolovice.jpg | Saved As: a6bdfce8-99bb-47af-8139-67607d719b84.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0576s
+2026-03-12 23:55:15,344 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 3d96da0b-9b2b-4453-948e-c18cd033ef69.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0574s
+2026-03-12 23:55:16,064 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 353af7f4-6d8f-44bd-a630-89d3e7c19279.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.0608s
+2026-03-14 07:08:20,868 - File: Shetland.pony-05-Castolovice.jpg | Saved As: 9202ee53-ae08-476b-abb9-a0abcb08d4e7.jpg | Class: flamingo | Confidence: 0.8490 | BBox: [731.7, 288.8, 2016.9, 1746.8] | Time: 0.1002s
